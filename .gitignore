@@ -1,3 +1,4 @@
+.idea
 #  Local .terraform directories
 **/.terraform/*
 
@@ -15,4 +16,4 @@
 *.pem
 
 # use terraform backend for local tests
-backend_local.tf
+backend_dev.tf
