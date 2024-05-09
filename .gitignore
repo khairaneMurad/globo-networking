@@ -13,3 +13,6 @@
 
 # .pem files
 *.pem
+
+# use terraform backend for local tests
+backend_local.tf
